@@ -1,3 +1,6 @@
+/*
+CC BY-NC-SA 2.0 KR에 따라 이용할 수 있습니다
+*/
 
 #include <Adafruit_NeoPixel.h>
 #include <Encoder.h>
